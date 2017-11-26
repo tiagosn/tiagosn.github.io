@@ -1,6 +1,6 @@
 ---
-layout: "page"
+layout: page
 title: About
 ---
 
-teste 123
+teste 1234565
