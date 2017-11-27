@@ -17,7 +17,7 @@ title: tiagosn
 email: tiagosn@usp.br
 description: >- # this means to ignore newlines until "baseurl:"
   Tiago Santana de Nazare is a PhD student in Computer Science at the University São Paulo and a Data Scientist at Itaú-Unibanco.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "tiagosn.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: tiagosn
