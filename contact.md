@@ -1,2 +1,7 @@
-### Contact
-tiagosn [at] usp [dot] br
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
+Contact
